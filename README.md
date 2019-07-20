@@ -10,7 +10,7 @@ trigger:
       - master
   paths:
     include:
-      - bar\foo\*
+      - bar/foo/*
 ```
 
 So that means only changes under bar\foo should trigger a build
