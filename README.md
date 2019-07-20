@@ -2,7 +2,7 @@
 
 Following instructions at [https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema#triggers](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema#triggers) 
 
-The top live azure-pipeline.yaml has
+The top level azure-pipeline.yaml has
 ```
 trigger:
   branches:
