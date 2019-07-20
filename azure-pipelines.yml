@@ -9,7 +9,7 @@ trigger:
       - master
   paths:
     include:
-      - bar\foo\*
+      - bar/foo/*
 
 pool:
   vmImage: 'ubuntu-latest'
