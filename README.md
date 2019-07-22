@@ -1,4 +1,5 @@
 # Testing Azure Pipelines Conditional Builds 
+[![Build Status](https://dev.azure.com/abrig/bedrock_gitops/_apis/build/status/andrebriggs.az-conditional-builds?branchName=master)](https://dev.azure.com/abrig/bedrock_gitops/_build/latest?definitionId=8&branchName=master)
 
 Following instructions at [https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema#triggers](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema#triggers) 
 
