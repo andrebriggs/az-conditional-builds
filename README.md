@@ -19,7 +19,7 @@ trigger:
 - So that means only changes under bar\foo should trigger a build
     - We have confirmed this
 - We also added an exclusion on all Markdown files via `'**/*.md'`
-    - We have confirmed that ADO doesn't trigger for all *.md in the repo
+    - This has no effect. Builds still happen. 
     - The bug is [here](https://github.com/MicrosoftDocs/vsts-docs/issues/2363)
 
 Let's get more compliCated though. We want to:
