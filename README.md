@@ -22,5 +22,5 @@ trigger:
     - This has no effect. Builds still happen. 
     - The bug is [here](https://github.com/MicrosoftDocs/vsts-docs/issues/2363)
 
-Let's get more compliCated though. We want to:
+Let's get more complicated though. We want to:
 * Run a test only when one or more directories are changed
